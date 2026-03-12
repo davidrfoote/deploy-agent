@@ -63,7 +63,7 @@ Set in `/home/openclaw/apps/deploy-agent/.env`:
 ## Accessible from containers
 
 ```
-http://172.17.0.1:18790
+http://172.17.0.1:18795
 ```
 
-Port: **18790**
+Port: **18795**
